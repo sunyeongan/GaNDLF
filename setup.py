@@ -88,7 +88,7 @@ requirements = [
     "twine",
     "zarr",
     "keyring",
-    "monai==1.3.0",
+    "monai==1.1.0",
 
 ]
 
