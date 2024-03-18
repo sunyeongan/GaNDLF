@@ -83,6 +83,12 @@ requirements = [
     "torchinfo==1.7.0",
     "ACSConv==0.1.1",
     "segmentation-models-pytorch==0.3.3",
+    "docker",
+    "dicom-anonymizer",
+    "twine",
+    "zarr",
+    "keyring",
+    "monai==1.3.0",
 
 ]
 
