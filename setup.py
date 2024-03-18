@@ -83,7 +83,7 @@ toplevel_package_excludes = [
 requirements = [
     "torch==2.1.2",
     "black==23.11.0",
-    "numpy==1.25.0",
+    "numpy>=1.22.0",
     "scipy",
     "SimpleITK!=2.0.*",
     "SimpleITK!=2.2.1",  # https://github.com/mlcommons/GaNDLF/issues/536
