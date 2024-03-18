@@ -81,6 +81,7 @@ requirements = [
     "pydicom",
     "onnx",
     "torchinfo==1.7.0",
+    "ACSConv==0.1.1",
 ]
 
 setup(
