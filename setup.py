@@ -82,6 +82,8 @@ requirements = [
     "onnx",
     "torchinfo==1.7.0",
     "ACSConv==0.1.1",
+    "segmentation-models-pytorch==0.3.3",
+
 ]
 
 setup(
